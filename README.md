@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning different Machine Learning algorithms.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - ⚡ Fun fact: I’m a big Disney Fan! Love everything about it (Parks, Films, Music...)!
+- 🎡🎢 Fun fact 2: Theme parks are my favorite destinations for vacations!
 - 📫 How to reach me: lucykimura@gmail.com
